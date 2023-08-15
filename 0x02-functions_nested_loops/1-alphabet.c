@@ -2,13 +2,13 @@
 
 /**
  * print_alphabet - utilizes on the _putchar function to print
- * 		    the alphabet a - z
+ * the alphabet a - z
  *
  */
 
 void print_alphabet(void)
-	int a;
+	int ch;
 
-	for (a = 'a'; a <= 'z'; a++)
-		_putchar(a);
+	for (ch = 'a'; ch <= 'z'; ch++)
+		_putchar(ax);
 	_putchar('\n');
